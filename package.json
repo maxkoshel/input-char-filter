@@ -1,0 +1,32 @@
+{
+  "name": "input-char-filter",
+  "version": "1.0.0",
+  "description": "Tool for filtering input chars defined by regexp pattern",
+  "main": "input-char-filter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maxkoshel/input-char-filter.git"
+  },
+  "keywords": [
+    "regex",
+    "pattern",
+    "utils",
+    "input",
+    "filter",
+    "chars",
+    "keypress",
+    "keyboard"
+  ],
+  "author": {
+  	"name": "Max Koshel",
+	"email": "max.koshel@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxkoshel/input-char-filter/issues"
+  },
+  "homepage": "https://github.com/maxkoshel/input-char-filter"
+}
