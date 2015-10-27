@@ -3,6 +3,12 @@ Input Char Filter
 
 Tool for filtering input chars defined by regexp pattern. 
 
+## Install
+
+```bash
+npm install input-char-filter
+```
+
 ## Usage
 
 ### HTML
