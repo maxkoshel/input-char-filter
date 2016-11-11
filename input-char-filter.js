@@ -32,7 +32,7 @@
       chr = getChar(e);
 
       if (chr === null) return;
-      if (!regexp.test(chr)) return false;
+      if (!regexp.test(chr)) return e.preventDefault ? e.preventDefault() : (e.returnValue = false);
 
       typeof(callback) === 'function' && callback.call(chr);
     };
