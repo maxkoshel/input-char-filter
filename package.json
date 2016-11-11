@@ -1,6 +1,6 @@
 {
   "name": "input-char-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Tool for filtering input chars defined by regexp pattern",
   "main": "input-char-filter.js",
   "scripts": {
@@ -21,8 +21,8 @@
     "keyboard"
   ],
   "author": {
-  	"name": "Max Koshel",
-	"email": "max.koshel@gmail.com"
+    "name": "Max Koshel",
+    "email": "max.koshel@gmail.com"
   },
   "license": "MIT",
   "bugs": {
