@@ -1,7 +1,9 @@
 Input Char Filter
 =========
 
-Tool for filtering input chars defined by regexp pattern. 
+![npm](https://img.shields.io/npm/dw/input-char-filter)
+
+Tool for filtering input chars defined by regexp pattern.
 
 ## Install
 
